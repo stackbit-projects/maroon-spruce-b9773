@@ -30,7 +30,8 @@
                 "url": "/signup",
                 "style": "primary"
             }
-        ]
+        ],
+        "logo_img": "images/android-chrome-192x192.png"
     },
     "footer": {
         "sections": [
